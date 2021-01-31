@@ -20,4 +20,17 @@
 - 👯 I’m looking to collaborate on backend web development projects.
 - ⚡ I love contributing to open source
 
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100" height="100"><img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" width="100" height="100"><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" height="100"><img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" height="100"><img src="https://miro.medium.com/max/800/0*3UD56f1LXF3Q8IrO.gif" width="100" height="100"><img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="100" height="100"></p>
+
+
+___
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Apurva-Jyoti-paul&show_icons=true&theme=tokyonight" style="margin:4px"></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurva-Jyoti-paul&theme=tokyonight" style="margin:4px"></p>
+
+
 </p>
